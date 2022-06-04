@@ -1,1 +1,5 @@
 venv/
+__pycache__/
+django_library/__pycache__/
+library/migrations/
+db.sqlite3
